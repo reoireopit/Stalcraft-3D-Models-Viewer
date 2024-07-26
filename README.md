@@ -29,7 +29,7 @@
 2. Разнообразие в выборе.
 3. Модификация оружия из списка всех доступных обвесов.
 
-![image](https://github.com/user-attachments/assets/aa845734-238a-4d47-8cf5-968f08a30bcb)
+![1photo](https://github.com/user-attachments/assets/93392a05-a500-4614-8f2d-d459ea689d4e)
 
 ___
 
