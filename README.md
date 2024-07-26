@@ -30,6 +30,7 @@
 3. Модификация оружия из списка всех доступных обвесов.
 
 ![1photo](https://github.com/user-attachments/assets/93392a05-a500-4614-8f2d-d459ea689d4e)
+![2photo](https://github.com/user-attachments/assets/91003304-8e7f-4f7a-aced-15eab079a77e)
 
 ___
 
