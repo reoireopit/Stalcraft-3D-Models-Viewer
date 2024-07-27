@@ -7,7 +7,7 @@
 Для смены оружия на странице просмотра выберите нужное оружие.
 
 # Список поддерживаемых оружий:
-[List Of Weapons](https://www.mediafire.com/folder/t7y0jrauyyyrk/models)
+[List Of Weapons](https://github.com/reoireopit/Stalcraft-3D-Models-Viewer/blob/main/list%20of%20weapons)
 # В разработке:
 1. Разнообразие в выборе.
 2. Модификация оружия из списка всех доступных обвесов.
