@@ -7,7 +7,7 @@
 Для смены оружия на странице просмотра выберите нужное оружие.
 
 # Список поддерживаемых оружий:
-[List Of Weapons](https://github.com/reoireopit/Stalcraft-3D-Models-Viewer/blob/main/list%20of%20weapons)
+- [List Of Weapons](https://github.com/reoireopit/Stalcraft-3D-Models-Viewer/blob/main/list%20of%20weapons)
 # В разработке:
 1. Разнообразие в выборе.
 2. Модификация оружия из списка всех доступных обвесов.
@@ -28,7 +28,7 @@ ___
 To change weapons, select the appropriate weapon on the view page.
 
 # List of supported weapons:
-[List Of Weapons](https://github.com/reoireopit/Stalcraft-3D-Models-Viewer/blob/main/list%20of%20weapons)
+- [List Of Weapons](https://github.com/reoireopit/Stalcraft-3D-Models-Viewer/blob/main/list%20of%20weapons)
 # In development:
 1. Variety of choices.
 2. Modification of weapons from the list of all available body kits.
