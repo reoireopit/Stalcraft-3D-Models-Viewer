@@ -1,6 +1,6 @@
 # Использование:
-1. Для правильного запуска скачайте архив со всеми файлами.
-2. Скачайте папку с моделями и переместите её в папку с проектом.
+1. Для правильного запуска скачайте папку проекта с Github.
+2. Скачайте папку с названием «models» с моделями и переместите её в папку с проектом.
 
 - Ссылка на скачивание папки моделей: [MediaFire](https://www.mediafire.com/folder/t7y0jrauyyyrk/models)
 
@@ -20,8 +20,8 @@
 ___
 
 # Usage:
-1. To run correctly, download the archive with all the files.
-2. Download the models folder and move it to the project folder.
+1. To launch correctly, download the project folder from Github.
+2. Download the folder named "models" with the models and move it to the project folder.
 
 - Link to download the models folder: [MediaFire](https://www.mediafire.com/folder/t7y0jrauyyyrk/models)
 
