@@ -1,9 +1,13 @@
 # Использование:
-Для правильного запуска скачайте архив со всеми файлами.
+1. Для правильного запуска скачайте архив со всеми файлами.
+2. Скачайте папку с моделями и переместите её в папку с проектом.
+
+- Ссылка на скачивание папки моделей: [MediaFire](https://www.mediafire.com/folder/t7y0jrauyyyrk/models)
+
 Для смены оружия на странице просмотра выберите нужное оружие.
 
 # Список поддерживаемых оружий:
-[List Of Weapons](https://github.com/reoireopit/Stalcraft-3D-Models-Viewer/blob/main/list%20of%20weapons)
+[List Of Weapons](https://www.mediafire.com/folder/t7y0jrauyyyrk/models)
 # В разработке:
 1. Разнообразие в выборе.
 2. Модификация оружия из списка всех доступных обвесов.
@@ -16,7 +20,11 @@
 ___
 
 # Usage:
-To run it correctly, download the archive with all the files.
+1. To run correctly, download the archive with all the files.
+2. Download the models folder and move it to the project folder.
+
+- Link to download the models folder: [MediaFire](https://www.mediafire.com/folder/t7y0jrauyyyrk/models)
+
 To change weapons, select the appropriate weapon on the view page.
 
 # List of supported weapons:
