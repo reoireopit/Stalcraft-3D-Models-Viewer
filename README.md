@@ -2,7 +2,7 @@
 1. Для правильного запуска скачайте папку проекта с Github.
 2. Скачайте папку с названием «models» с моделями и переместите её в папку с проектом.
 
-- Ссылка на скачивание папки моделей: [MediaFire](https://www.mediafire.com/folder/t7y0jrauyyyrk/models)
+- Ссылка на скачивание папки моделей: [MediaFire](https://www.mediafire.com/folder/uotanmzk74bus/models)
 
 Для смены оружия на странице просмотра выберите нужное оружие.
 
@@ -23,7 +23,7 @@ ___
 1. To launch correctly, download the project folder from Github.
 2. Download the folder named "models" with the models and move it to the project folder.
 
-- Link to download the models folder: [MediaFire](https://www.mediafire.com/folder/t7y0jrauyyyrk/models)
+- Link to download the models folder: [MediaFire](https://www.mediafire.com/folder/uotanmzk74bus/models)
 
 To change weapons, select the appropriate weapon on the view page.
 
